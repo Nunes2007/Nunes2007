@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, my name is Nicolas, I'm a Brazilian Programming student looking to get into web development.</h1>
 
 ###
@@ -28,3 +30,13 @@
 </div>
 
 ###
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nunes2007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nunes2007&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nunes2007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nunes2007&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
